@@ -1,0 +1,8 @@
+.home-wrapper{
+    background-color: #000;
+    height: calc(100vh - 98px)
+}
+
+.white-ft{
+    color: #ffffff;
+}
